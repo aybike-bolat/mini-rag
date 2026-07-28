@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+*.pdf
+!data/wiki_*.pdf
+!data/iyi-kahve-rehberi.pdf
+!data/kvkk_kisisel_verilerin_korunmasi.pdf
+!data/xiaomi-robot-vacuum-s10t.pdf
+.DS_Store
+data/_*.txt
+data/*.bak_delete
